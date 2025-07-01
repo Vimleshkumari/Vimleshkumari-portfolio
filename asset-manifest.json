@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.bb0a1c48.css",
-    "main.js": "/static/js/main.be6eddc6.js",
-    "static/js/453.f6cb67b4.chunk.js": "/static/js/453.f6cb67b4.chunk.js",
-    "index.html": "/index.html",
-    "main.bb0a1c48.css.map": "/static/css/main.bb0a1c48.css.map",
-    "main.be6eddc6.js.map": "/static/js/main.be6eddc6.js.map",
-    "453.f6cb67b4.chunk.js.map": "/static/js/453.f6cb67b4.chunk.js.map"
+    "main.css": "/Vimleshkumari-portfolio/static/css/main.bb0a1c48.css",
+    "main.js": "/Vimleshkumari-portfolio/static/js/main.2c8e9d41.js",
+    "static/js/453.f6cb67b4.chunk.js": "/Vimleshkumari-portfolio/static/js/453.f6cb67b4.chunk.js",
+    "index.html": "/Vimleshkumari-portfolio/index.html",
+    "main.bb0a1c48.css.map": "/Vimleshkumari-portfolio/static/css/main.bb0a1c48.css.map",
+    "main.2c8e9d41.js.map": "/Vimleshkumari-portfolio/static/js/main.2c8e9d41.js.map",
+    "453.f6cb67b4.chunk.js.map": "/Vimleshkumari-portfolio/static/js/453.f6cb67b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb0a1c48.css",
-    "static/js/main.be6eddc6.js"
+    "static/js/main.2c8e9d41.js"
   ]
 }
