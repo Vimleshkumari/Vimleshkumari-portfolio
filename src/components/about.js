@@ -5,7 +5,6 @@ import { FaGithub } from "react-icons/fa";
 export default function About() {
   return (
     <section className="my-8flex-col ">
-      <h2 className="text-2xl font-semibold mb-2">Summary</h2>
       <div className="text-xl text-white sm:text-m lg:text-xl">
         Developer with experience in creating and enhancing user interfaces using React.js and modern JavaScript. Comfortable with state management through Redux and integrating APIs effectively. Able to translate design ideas into responsive and functional web applications. Familiar with frontend development tools and committed to writing clean, maintainable code.A collaborative team member focused on delivering user-friendly solutions
       </div>
