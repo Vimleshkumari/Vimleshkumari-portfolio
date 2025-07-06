@@ -1,8 +1,7 @@
-export default function Header() {
-  return (
-    <header className="text-center py-6">
-      <h1 className="text-4xl font-bold">Vimlesh Kumari</h1>
-      <p className="text-lg">Frontend Developer(ReactJS)</p>
-    </header>
-  );
-}
+const Header = () => (
+  <header className="bg-white/30 backdrop-blur-md shadow-md text-black dark:text-white p-4 flex justify-between items-center rounded-b-xl">
+    <h1 className="text-2xl font-bold">Vimlesh's Portfolio</h1>
+  </header>
+);
+
+export default Header;
